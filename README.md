@@ -1,32 +1,5 @@
-# PHPStorm Brackets Theme
+# PHPStorm Brackets DARK Theme
 
-A work-in progress theme of the brackets editor for PHPStorm.  Most of the inspiration comes from the Sublime Text 2 Port and of course the Brackets Editor. I use the Tomorrow Theme as a base.
+No need to put files somewhere on you OS. Just launch phpstorm, go to Settings->Editor->Color Sheme->General. At the right pane find setting icon. Click on it and then click import Sheme. Import downloaded Brackets.icls. 
 
-Note this will only work on the latest PHPStorm Eap (V7 130.1293 and above). Visit http://blog.jetbrains.com/phpstorm/category/eap/ for more info.  They made updates to the PHP synthax highlighter.
-
-![HTML Shot](https://raw.github.com/hjgarcia1/phpstorm-brackets/master/html-shot.png)
-
-I will be updating as often as I can and adding more language support.
-
-Supported languates:
-* HTML
-* CSS/LESS
-* PHP
-* JS
-
-More language support to come soon.
-
-To install copy "brackets.icls" to:
-### On Mac OS X
-~/Library/Preferences/your-version-of-phpstorm/colors/
-
-### On a Windows Installation
-c:/Users/USERNAME/your-version-of-phpstorm/config/colors
-
-### On a Ubuntu Installation
-~/your-version-of-phpstorm/config/colors
-
-Then Restart PHPStorm
-Go to Settings->Editor->Colors & Fonts, select the "Brackets" scheme name, click OK
-
-Enjoy!
+![Снимок экрана 2023-12-17 в 00 14 53](https://github.com/blackseabreathe/phpstorm-brackets/assets/37472475/c96fdafb-5d28-4532-a7bd-bc41c0b6c6cd)
